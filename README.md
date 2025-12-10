@@ -1,7 +1,9 @@
 # Hi, I'm Nitish 👋
 
-🎓 MSc Student in Data Science, AI & Digital Business
-💼 Ex- Data Engineer @ Accenture  
+🎓 MSc Student in Data Science, AI & Digital Business  
+
+💼 Ex- Data Engineer @ Accenture 
+
 📍 Based in Berlin, Germany  
 
 ---
