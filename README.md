@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 - **Languages:** Python, SQL
 - **Data:** Pandas, NumPy, Scikit-learn
 - **AL/ML:** RAG, NLP, Agentic AI, GenAI, LLM
@@ -17,11 +17,18 @@
 
 ### 📌 Featured Projects
 - [Eurostat Energy ETL & Analytics](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
-- [Nitish's Flight Explorer](https://github.com/your-username/nflight_explorer)
-- [Recipe Recommendation System](https://github.com/your-username/Recipe_Recommendation_System)
 
+- [vehicle-connected-usage-intel](https://github.com/your-username/vehicle-connected-usage-intel)
+
+- [Exploratory Data Analysis of Airbnb Listings in Berlin](https://github.com/nitishkpandey/EDA-Python-ML)
+  
+- [Machine Learning Pipeline for Predicting Product Returns in an E-Commerce Company](https://github.com/nitishkpandey/EDA-Python-ML)
+
+- [NLP Framework for Intelligent Talent Acquisition](https://github.com/nitishkpandey/EDA-Python-ML)
+
+- [Nitish's Flight Explorer](https://github.com/your-username/nflight_explorer) - **In Progress**
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [Nitish Kumar Pandey](https://www.linkedin.com/in/your-handle/)
+- LinkedIn: [Nitish Kumar Pandey](linkedin.com/in/nitishkpandey)
 - Email: pandeyknitish@gmail..com
