@@ -1,6 +1,6 @@
 # Hi, I'm Nitish 👋
 
-🎓 MSc Student in Data Science, AI & Digital Business  
+🎓 MSc Student in Data Science, AI & Digital Business
 💼 Ex- Data Engineer @ Accenture  
 📍 Based in Berlin, Germany  
 
@@ -8,7 +8,7 @@
 
 ### Tech Stack
 - **Languages:** Python, SQL
-- **Data:** Pandas, NumPy, Scikit-learn
+- **Data:** Pandas, NumPy, Scikit-learn, MatplotLib, Seaborn
 - **AL/ML:** RAG, NLP, Agentic AI, GenAI, LLM
 - **Data Engineering:** Airflow, Azure Data Factory, Databricks, Docker
 - **Visualisation:** Power BI, Streamlit
@@ -16,7 +16,7 @@
 ---
 
 ### 📌 Featured Projects
-- [Eurostat Energy AI_PLATFORM](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
+- [Eurostat Energy AI_Platform](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
 
 - [Connected Usage Intelligence Dashboard](https://github.com/your-username/vehicle-connected-usage-intel)
 
@@ -29,6 +29,6 @@
 - [nFlight Explorer](https://github.com/nitishkpandey/nflight_explorer) - **In Progress**
 ---
 
-### 📫 How to reach me
+### 📫 Reach me out:
 - LinkedIn: [Nitish Kumar Pandey](linkedin.com/in/nitishkpandey)
 - Email: pandeyknitish@gmail..com
