@@ -16,9 +16,9 @@
 ---
 
 ### 📌 Featured Projects
-- [Eurostat Energy ETL & Analytics](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
+- [Eurostat Energy AI_PLATFORM](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
 
-- [vehicle-connected-usage-intel](https://github.com/your-username/vehicle-connected-usage-intel)
+- [Connected Usage Intelligence Dashboard](https://github.com/your-username/vehicle-connected-usage-intel)
 
 - [Exploratory Data Analysis of Airbnb Listings in Berlin](https://github.com/nitishkpandey/EDA-Python-ML)
   
@@ -26,7 +26,7 @@
 
 - [NLP Framework for Intelligent Talent Acquisition](https://github.com/nitishkpandey/EDA-Python-ML)
 
-- [Nitish's Flight Explorer](https://github.com/your-username/nflight_explorer) - **In Progress**
+- [nFlight Explorer](https://github.com/nitishkpandey/nflight_explorer) - **In Progress**
 ---
 
 ### 📫 How to reach me
