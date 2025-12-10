@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nitish 👋
 
-<!--
-**nitishkpandey/nitishkpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in Data Science, AI & Digital Business  
+💼 Ex- Data Engineer @ Accenture  
+📍 Based in Berlin, Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** Python, SQL
+- **Data:** Pandas, NumPy, Scikit-learn
+- **AL/ML:** RAG, NLP, Agentic AI, GenAI, LLM
+- **Data Engineering:** Airflow, Azure Data Factory, Databricks, Docker
+- **Visualisation:** Power BI, Streamlit
+
+---
+
+### 📌 Featured Projects
+- [Eurostat Energy ETL & Analytics](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
+- [Nitish's Flight Explorer](https://github.com/your-username/nflight_explorer)
+- [Recipe Recommendation System](https://github.com/your-username/Recipe_Recommendation_System)
+
+---
+
+### 📫 How to reach me
+- LinkedIn: [Nitish Kumar Pandey](https://www.linkedin.com/in/your-handle/)
+- Email: pandeyknitish@gmail..com
