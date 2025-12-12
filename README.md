@@ -18,9 +18,9 @@
 ---
 
 ### 📌 Featured Projects
-- [Eurostat Energy AI_Platform](https://github.com/your-username/Eurostat-Energy-ETL-Pipeline)
+- [Eurostat Energy AI_Platform](https://github.com/nitishkpandey/Eurostat-Energy-ETL-Pipeline)
 
-- [Connected Usage Intelligence Dashboard](https://github.com/your-username/vehicle-connected-usage-intel)
+- [Connected Usage Intelligence Dashboard](https://github.com/nitishkpandey/vehicle-connected-usage-intel)
 
 - [Exploratory Data Analysis of Airbnb Listings in Berlin](https://github.com/nitishkpandey/EDA-Python-ML)
   
