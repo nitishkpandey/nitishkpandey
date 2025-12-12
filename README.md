@@ -1,4 +1,4 @@
-# Hi there, I'm Nitish Kumar Pandey 👋
+# Hi there, I'm Nitish Kumar Pandey
 
 <div align="center">
   
@@ -8,17 +8,17 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-🎓 **MSc Student** in Data Science, AI & Digital Business  
-💼 **Former Data Engineer** @ Accenture  
-📍 **Location:** Berlin, Germany  
-🔭 **Currently working on:** Building intelligent data platforms with AI/ML integration  
-🌱 **Learning:** Advanced LLM architectures, Agentic AI systems, and MLOps best practices
+**MSc Student** in Data Science, AI & Digital Business  
+**Former Data Engineer** @ Accenture  
+**Location:** Berlin, Germany  
+**Currently working on:** Building intelligent data platforms with AI/ML integration  
+**Learning:** Advanced LLM architectures, Agentic AI systems, and MLOps best practices
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,23 +51,23 @@
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🌟 [Eurostat Energy AI Platform](https://github.com/nitishkpandey/Eurostat-Energy-AI-Platform)
+### [Eurostat Energy AI Platform](https://github.com/nitishkpandey/Eurostat-Energy-AI-Platform)
 > **Full-stack AI-powered energy analytics platform**
 
 A production-grade ETL + Analytics + ML platform featuring:
-- 🔄 Modular ETL pipeline with Docker orchestration
-- 📈 Interactive Streamlit dashboard with custom UI/UX
-- 🤖 AI-powered insights using RAG and semantic search
-- 🔮 ML forecasting with XGBoost and Exponential Smoothing
-- 🧪 Comprehensive unit testing and CI/CD ready
+- Modular ETL pipeline with Docker orchestration
+- Interactive Streamlit dashboard with custom UI/UX
+- AI-powered insights using RAG and semantic search
+- ML forecasting with XGBoost and Exponential Smoothing
+- Comprehensive unit testing and CI/CD ready
 
 **Tech:** Python, PostgreSQL, Streamlit, Plotly, XGBoost, Docker
 
 ---
 
-### 🚗 [Connected Usage Intelligence Dashboard](https://github.com/nitishkpandey/vehicle-connected-usage-intel)
+### [Connected Usage Intelligence Dashboard](https://github.com/nitishkpandey/vehicle-connected-usage-intel)
 > **Real-time vehicle telematics analytics**
 
 Advanced analytics platform for connected vehicle data with real-time monitoring and predictive insights.
@@ -76,7 +76,7 @@ Advanced analytics platform for connected vehicle data with real-time monitoring
 
 ---
 
-### 🏠 [Airbnb Berlin - Exploratory Data Analysis](https://github.com/nitishkpandey/EDA-Python-ML)
+### [Airbnb Berlin - Exploratory Data Analysis](https://github.com/nitishkpandey/EDA-Python-ML)
 > **Comprehensive EDA and market insights**
 
 In-depth analysis of Airbnb listings in Berlin, uncovering pricing patterns, location trends, and market dynamics.
@@ -85,7 +85,7 @@ In-depth analysis of Airbnb listings in Berlin, uncovering pricing patterns, loc
 
 ---
 
-### 📦 [E-Commerce Returns Prediction Pipeline](https://github.com/nitishkpandey/EDA-Python-ML)
+### [E-Commerce Returns Prediction Pipeline](https://github.com/nitishkpandey/EDA-Python-ML)
 > **End-to-end ML pipeline for return prediction**
 
 Production-ready machine learning pipeline to predict product returns, helping reduce operational costs.
@@ -94,7 +94,7 @@ Production-ready machine learning pipeline to predict product returns, helping r
 
 ---
 
-### 💼 [NLP Framework for Intelligent Talent Acquisition](https://github.com/nitishkpandey/EDA-Python-ML)
+### [NLP Framework for Intelligent Talent Acquisition](https://github.com/nitishkpandey/EDA-Python-ML)
 > **AI-powered recruitment automation**
 
 NLP-based system for automated resume screening, candidate matching, and talent pipeline optimization.
@@ -103,8 +103,8 @@ NLP-based system for automated resume screening, candidate matching, and talent 
 
 ---
 
-### ✈️ [nFlight Explorer](https://github.com/nitishkpandey/nflight_explorer) 
-> **Flight data analytics platform** • 🚧 *In Progress*
+### [nFlight Explorer](https://github.com/nitishkpandey/nflight_explorer) 
+> **Flight data analytics platform** •  *In Progress*
 
 Real-time flight tracking and analytics dashboard with predictive delay modeling.
 
@@ -112,41 +112,21 @@ Real-time flight tracking and analytics dashboard with predictive delay modeling
 
 ---
 
-## 📈 GitHub Stats
+## Current Focus
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitishkpandey&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkpandey&layout=compact&theme=radical&hide_border=true)
-
-</div>
+- Building production-grade AI/ML systems
+- Designing scalable data architectures
+- Exploring multi-agent AI frameworks
+- Contributing to open-source data science projects
 
 ---
 
-## 🎯 Current Focus
-
-- 🔬 Building production-grade AI/ML systems
-- 🏗️ Designing scalable data architectures
-- 🤖 Exploring multi-agent AI frameworks
-- 📚 Contributing to open-source data science projects
-
----
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 **LinkedIn:** [linkedin.com/in/nitishkpandey](https://linkedin.com/in/nitishkpandey)
-- 📧 **Email:** pandeyknitish@gmail.com
-- 🐙 **GitHub:** [@nitishkpandey](https://github.com/nitishkpandey)
+- **LinkedIn:** [linkedin.com/in/nitishkpandey](https://linkedin.com/in/nitishkpandey)
+- **Email:** pandeyknitish@gmail.com
+- **GitHub:** [@nitishkpandey](https://github.com/nitishkpandey)
 
 ---
-
-<div align="center">
-  
-### 💡 *"Data is the new oil, but AI is the refinery"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=nitishkpandey&color=blueviolet&style=flat-square)
-
-</div>
