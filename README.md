@@ -10,11 +10,11 @@
 
 ## About Me
 
-**MSc Student** in Data Science, AI & Digital Business  
-**Former Data Engineer** @ Accenture  
-**Location:** Berlin, Germany  
-**Currently working on:** Building intelligent data platforms with AI/ML integration  
-**Learning:** Advanced LLM architectures, Agentic AI systems, and MLOps best practices
+- **MSc Student** in Data Science, AI & Digital Business  
+-  Ex - **Data Engineer** @ Accenture  
+- **Location:** Berlin, Germany  
+- **Currently working on:** Building intelligent data platforms with AI/ML integration  
+- **Learning:** Advanced LLM architectures, Agentic AI systems, and MLOps best practices
 
 ---
 
