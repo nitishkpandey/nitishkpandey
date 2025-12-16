@@ -10,7 +10,7 @@
 
 ## About Me
 
-- **MSc Student** in Data Science, AI & Digital Business  
+- **MSc Student** in Data Science and Artificial Intelligence  
 -  Ex - **Data Engineer** @ Accenture  
 - **Location:** Berlin, Germany
 ---
@@ -29,11 +29,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### AI/ML Specialization
+- **MCP (Model Context Protocol)**
 - **RAG (Retrieval-Augmented Generation)**
 - **Natural Language Processing (NLP)**
 - **Agentic AI & Multi-Agent Systems**
-- **Generative AI & LLM Fine-tuning**
-- **Prompt Engineering**
+- **Generative AI & LLMs'**
 
 ### Data Engineering
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
