@@ -55,12 +55,13 @@
 
 A production-grade ETL + Analytics + ML platform featuring:
 - Modular ETL pipeline with Docker orchestration
-- Interactive Streamlit dashboard with custom UI/UX
+- Interactive React dashboard with custom UI/UX
+- API-first FastAPI backend for analytics and AI workflows
 - AI-powered insights using RAG and semantic search
 - ML forecasting with XGBoost and Exponential Smoothing
 - Comprehensive unit testing and CI/CD ready
 
-**Tech:** Python, PostgreSQL, Streamlit, Plotly, XGBoost, Docker
+**Tech:**    Python, PostgreSQL, FastAPI, React, Recharts, XGBoost, Docker
 
 ---
 
