@@ -11,7 +11,7 @@
 
 ## About Me
 
-- **AI (Agentic) Engineer** @ Mercanis, Berlin
+- **Working Student AI (Agentic) Engineer** @ Mercanis, Berlin
 - **MSc** in Data Science and Artificial Intelligence, GISMA University of Applied Sciences, Potsdam
 - **Ex - Data Engineer** @ Accenture (3.5+ years)
 - **Location:** Berlin, Germany
